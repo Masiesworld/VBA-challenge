@@ -3,7 +3,7 @@ This is a project using VBA scripts to calculate and analyze stock market; it de
 
 # Instructions
 ## Part 1: 
-** Create a script that will loop through all the stocks for one year and output the following information.**
+**Create a script that will loop through all the stocks for one year and output the following information.**
 
 The ticker symbol.
 
