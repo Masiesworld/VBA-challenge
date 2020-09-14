@@ -19,4 +19,4 @@ Your solution will also be able to return the stock with the "Greatest % increas
 Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 # Steps
 1. **Define the variables.** Let's start to solve the problems on one worksheet first. It is clear to us that we need to use loops; therefore we need to determine the range of data we want to loop through. In this solution, variable *i* and *LastRow* are related to the row we are looping; variable *Summary_Table_Row* is related the row where we want to store the summary data in. *Ticker_total* stores the total volumes for each ticker. *start* and *change* are related to calculating the yearly change and percent change. 
-2. **Print the headers.**
+2. **Print the headers.** This part is easier. Find the location we are supposed to store the header information in and insert.
